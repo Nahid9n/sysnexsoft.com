@@ -1,0 +1,7 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home2/aytkohco/sysnexsoft.aytkoh.com"
+PassengerBaseURI "/"
+PassengerNodejs "/home2/aytkohco/nodevenv/sysnexsoft.aytkoh.com/20/bin/node"
+PassengerAppType node
+PassengerStartupFile node_modules/next/dist/bin/next
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
